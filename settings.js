@@ -9,7 +9,7 @@ global.APIs = {
 // Other
 global.owner = ['6285854337533']
 global.premium = ['6285854337533']
-global.youtube = 'https://youtube.com/c/XYNELSDESIGN'
+global.youtube = 'https://youtube.com/channel/UCHEHOIHj-7z9K3QTapYdNpg'
 global.ownername = 'Xynels'
 global.botname ='Sayu-Ogiwara'
 global.donasi = {
@@ -32,7 +32,8 @@ global.mess = {
     wait: 'Loading...'
 }
 global.thumb = fs.readFileSync('./image/hinata.jpg')
-global.vn = './sound/menu.mp3'
+global.vn = './sound/menu2
+.mp3'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
